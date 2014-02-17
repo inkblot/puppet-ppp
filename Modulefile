@@ -8,3 +8,4 @@ description 'A Puppet module which installs pppd and allows control of chap-secr
 project_page 'https://github.com/inkblot/puppet-ppp'
 
 dependency 'puppetlabs/stdlib', '>= 4.1.0'
+dependency 'puppetlabs/concat'
